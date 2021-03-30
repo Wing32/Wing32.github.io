@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### You can read a README.md
 
-[Readme.md](http://www.baidu.com)
+[Readme.md](https://github.com/Wing32/Wing32.github.io/blob/master/README.md)
 
 
